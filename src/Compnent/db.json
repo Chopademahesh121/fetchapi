@@ -1,0 +1,44 @@
+{
+    "student": [
+        {
+            "sr": "01",
+            "roll": "101",
+            "name": "Shubham ",
+            "result": "Pass With first class",
+            "grade": "A+",
+            "photo": ""
+        },
+        {
+            "sr": "02",
+            "roll": "102",
+            "name": "Ajinkya",
+            "result": "Pass With first class",
+            "grade": "A+",
+            "photo": ""
+        },
+        {
+            "sr": "03",
+            "roll": "103",
+            "name": "Hardik Pandya",
+            "result": "Pass With first class",
+            "grade": "D+",
+            "photo": ""
+        },
+        {
+            "sr": "04",
+            "roll": "104",
+            "name": "Ravindra Jadeja",
+            "result": "Pass With first class",
+            "grade": "A+",
+            "photo": ""
+        },
+        {
+            "sr": "05",
+            "roll": "105",
+            "name": "Rohit Sharma",
+            "result": "Pass",
+            "grade": "A++",
+            "photo": ""
+        }
+    ]
+}
